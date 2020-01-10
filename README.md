@@ -1,11 +1,13 @@
-# SK (Self K(Q)uest)
+# ㅇㅣㄹㅜㄹㅣ (이루리)
 
 ## 1. 목표
 
+- 스스로 목표를 설정하고 해결하며, 자아효능감을 높이고자 함
+- 목표하고자 하는 내용을 입력하고 간단하게 입력 버튼만 누르면 "내가 무엇을 할 지" 정할 수 있는 페이스 메이커
+
 ## 2. 기술스택
 
-- React? Vue.js?
--
+-  Vue.js
 
 ## 3. 구현 기능
 
@@ -15,11 +17,30 @@
 - 매일 반복 되는 퀘스트 기능 추가
 - 중요 퀘스트는 특수한 문자를 표시하고 항상 위로 표시하기
 
-
-## 4. DB 구조
-
-
-
-## 5. 앞으로의 추가사항
+## 4. 앞으로의 추가사항
 
 - 퀘스트 추천(추후 추가 기능)
+
+## 5. 프로토 타입
+
+[보러가기](https://ovenapp.io/project/G17IXlieSIB1yc9GluG6kz7TahrGDWvK#pCfzr) (암호: 1q2w3e4r)
+
+### 1. 메인화면
+
+<img src="./images/image 004.png">
+
+### 2. My Quest
+
+<img src="./images/image 002.png">
+
+<img src="./images/image 003.png">
+
+### 3. Help!
+
+<img src="./images/image 005.png">
+
+<img src="./images/image 006.png">
+
+### 4. Reward
+
+<img src="./images/image 007.png">
